@@ -5,7 +5,7 @@ A single-page personal profile site listing practice locations and contact detai
 ## Structure
 - `index.html` — all page content (one page, anchor navigation only)
 - `style.css` — styles
-- `images/dr-jose-shina.jpg` — profile photo
+- `dr-jose-shina.jpg` — profile photo (kept at the repo root, no subfolder, so nothing can get flattened or lost on upload)
 
 ## Deploying with Netlify (from GitHub)
 1. Push this folder to a new GitHub repository.
